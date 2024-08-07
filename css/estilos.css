@@ -1,0 +1,17 @@
+boby{
+    margin: 20px;
+    font-size: Verdana;
+}
+
+#cuadro{
+    width: 200px;
+}
+
+
+p, label{
+    font-size: Tahoma;
+}
+
+input[name=email] {
+    background-color: #eeeeee;
+}
